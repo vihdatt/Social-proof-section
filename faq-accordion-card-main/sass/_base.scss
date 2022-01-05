@@ -1,0 +1,24 @@
+html {
+  font-size: 62.5%;
+}
+
+body {
+  width: 100%;
+  min-height: 100vh;
+  font-family: $primary-font;
+  font-size: $normal-font-size;
+  line-height: 1;
+  color: $very-dark-grayish-blue;
+  background-image: linear-gradient(to bottom, $soft-violet, $soft-blue);
+}
+
+.site-main {
+  max-width: 375px;
+  margin: 18rem auto 5rem;
+}
+
+h1 {
+  color: #000;
+  font-weight: 700;
+  font-size: $h1-font-size;
+}

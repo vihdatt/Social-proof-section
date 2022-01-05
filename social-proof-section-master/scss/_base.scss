@@ -1,0 +1,21 @@
+html {
+  font-size: 62.5%;
+}
+
+body {
+  width: 100%;
+  min-height: 100vh;
+  font-family: $primary-font;
+  font-size: $normal-font-size;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: $dark-grayish-magenta;
+  line-height: 1;
+}
+
+h1 {
+  font-size: 4rem;
+  color: $very-dark-magenta;
+  font-weight: $font-bold;
+}
